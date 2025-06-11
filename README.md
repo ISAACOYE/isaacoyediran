@@ -47,6 +47,6 @@ I'm a Biomedical Informatics M.S. student at NYU with a passion for solving real
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 - [LinkedIn](https://linkedin.com/in/isaac-oyediran)
 - isaacoyediran@gmail.com
