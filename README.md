@@ -26,7 +26,7 @@ I'm a Biomedical Informatics M.S. student at NYU with a passion for solving real
 - **[COVID-19 Vaccine Safety Analysis (VAERS)](https://github.com/ISAACOYE/covid19-vaers-analysis)**  
   Analyzed 17,000+ COVID-19 vaccine adverse event reports in North Carolina. Created severity scores based on symptoms and conducted correlation analysis using R.
 
-- **[Wearable Glucose Monitoring & Food Log Database] (https://github.com/ISAACOYE/healthcare-db-management)**  
+- **[Wearable Glucose Monitoring & Food Log Database](https://github.com/ISAACOYE/healthcare-db-management)**  
   Designed a normalized PostgreSQL database integrating Dexcom G6 glucose data with food and activity logs. Built ER diagrams, SQL queries, and data extraction functions
 
 #### Apps
