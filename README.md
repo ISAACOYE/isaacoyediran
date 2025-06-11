@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Oyediran
 
-I'm a Biomedical Informatics M.S. student at NYU with a passion for solving real-world problems using AI, automation, and data-driven tools. From clinical NLP and bioinformatics pipelines to mobile apps and decision support systems, I love building solutions that bridge tech and impact.
+I'm a Biomedical Informatics M.S. student at NYU with a passion for solving real-world problems using AI, automation, and data-driven tools. From clinical NLP and bioinformatics pipelines to mobile apps and decision support systems, I love building solutions that bridge tech and healthcare impact.
 
 ---
 
