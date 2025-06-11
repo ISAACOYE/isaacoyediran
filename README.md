@@ -27,10 +27,7 @@ I'm a Biomedical Informatics M.S. student at NYU with a passion for solving real
   Analyzed 17,000+ COVID-19 vaccine adverse event reports in North Carolina. Created severity scores based on symptoms and conducted correlation analysis using R.
 
 - **[Wearable Glucose Monitoring & Food Log Database](https://github.com/isaacoyediran/healthcare-db-management)**  
-  Designed a normalized PostgreSQL database integrating Dexcom G6 glucose data with food and activity logs. Built ER diagrams, SQL queries, and data extraction functions.
-
-- **[RNA-Seq Differential Expression Workflow](https://github.com/isaacoyediran/rnaseq-final-project)**  
-  Processed GEO data for an RNA-seq study using DESeq2. Performed read alignment, normalization, and differential expression analysis in R.
+  Designed a normalized PostgreSQL database integrating Dexcom G6 glucose data with food and activity logs. Built ER diagrams, SQL queries, and data extraction functions
 
 #### Apps
 - **[CheckMate+](https://github.com/isaacoyediran/checkmate-app)**  
